@@ -1,7 +1,7 @@
 picomponents.jpg
 ## System Components
 
-![System Overview](hardware/components_overview.jpg)
+![System Overview](hardware/picomponents.jpg)
 
 The image above shows all components used in the Raspberry Pi–based circadian imaging system prior to assembly.
 
