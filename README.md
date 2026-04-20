@@ -3,5 +3,5 @@ Raspberry Pi–based circadian timelapse imaging system for Nematostella vectens
 
 # workflow
 Raspberry Pi + Camera → Image Capture with timelapse.py <br>
-Fiji → Image Processing and Raw Data Export <br>
+ImageJ/Fiji → Image Processing and Raw Data Export <br>
 Jupyter Notebook → Data Visualization and Analysis with circadian_analysis.ipynb <br>
